@@ -20,4 +20,4 @@
 
 echo 'Nombre: ' . $_POST ['n'];
 
-echo 'Nombre: ' . $_POST ['n'];
+echo 'Apellido: ' . $_POST ['a'];
