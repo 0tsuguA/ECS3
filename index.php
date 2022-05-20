@@ -19,3 +19,5 @@
 //Pushear los cambios al repositorio remoto.
 
 echo 'Nombre: ' . $_POST ['n'];
+
+echo 'Nombre: ' . $_POST ['n'];
